@@ -59,6 +59,7 @@ This consists of all the reading I did to find **'always' free** cloud platforms
 - Exactly the sort of product I am after.
 - Best thing: generous free tier and paid plans not so generous
 - Just one issue: Pricing 🚀 when upgrading to paid plans
+- Has discontinued its free service!
 - Platform as as Service (PaaS)
 - [Heroku 'always' free services](https://www.heroku.com/free)
 
